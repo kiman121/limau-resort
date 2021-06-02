@@ -3,6 +3,8 @@
 #### By **Patrick Mwangangi**
 ## Description
 This is a webapp that has been created about Limau Resort as as practice of HTML, CSS concepts that are being taught in the prep class.
+## Demo
+Here is a working live demo : https://github.com/kiman121/limau-resort.git
 ## Setup/Installation Requirements
 * Clone the repository (repo)
 ```
