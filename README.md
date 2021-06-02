@@ -2,11 +2,11 @@
 #### This is a simple HTML CSS project about Limau Resort. , 2021
 #### By **Patrick Mwangangi**
 ## Description
-This is a webapp that has been used in practice of HTML, CSS concepts that are being taught in class.
+This is a webapp that has been created about Limau Resort as as practice of HTML, CSS concepts that are being taught in the prep class.
 ## Setup/Installation Requirements
 * Clone the repository (repo)
 ```
-git clone https://github.com/kiman121/my-pet-project.git
+git clone https://github.com/kiman121/limau-resort.git
 ```
 * Open the project on VS Code
 * Open the project on live server
