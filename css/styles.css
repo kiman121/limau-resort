@@ -1,16 +1,21 @@
+body {
+    background-color: #deedf0;
+}
 h1 {
   text-align: center;
   font-family: sans-serif;
   font-style: bold;
+  color: #005a8d;
 }
 
-h2{
-    font-family: sans-serif;
+h2 {
+  font-family: sans-serif;
+  font-style: italic;
 }
-p{
-    text-align: center;
+p {
+  text-align: center;
 }
-img{
-    height: 200px;
-    width: 300px;
+img {
+  height: 200px;
+  width: 300px;
 }
